@@ -241,11 +241,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📚 Documentation
 
 - `GETTING-STARTED.md` - Detailed setup guide
-- `STATUS.md` - Current project status
-- `CHANGES.md` - Changelog of improvements
-- `TXT-FILE-FIX.md` - Text file handling implementation
-- `INTERVIEW-IMPROVEMENTS.md` - Interview generation details
-
 ---
 
 **Built with curiosity and lots of coffee ☕**
