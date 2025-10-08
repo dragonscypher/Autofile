@@ -1,0 +1,26 @@
+FROM node:20-alpine AS deps
+WORKDIR /app
+RUN corepack enable && corepack prepare pnpm@8.15.4 --activate
+COPY package.json pnpm-workspace.yaml .npmrc* ./
+COPY apps/web/package.json apps/web/
+COPY packages/ats/package.json packages/ats/
+COPY packages/llm/package.json packages/llm/
+COPY packages/utils/package.json packages/utils/
+COPY prisma/schema.prisma prisma/
+RUN pnpm install --frozen-lockfile || pnpm install
+
+FROM deps AS build
+COPY . .
+RUN pnpm prisma generate
+RUN pnpm -w --filter @autofile/web build
+
+FROM node:20-alpine AS runner
+ENV NODE_ENV=production
+WORKDIR /app
+RUN corepack enable && corepack prepare pnpm@8.15.4 --activate
+COPY --from=build /app/node_modules ./node_modules
+COPY --from=build /app/apps/web/.next ./apps/web/.next
+COPY --from=build /app/apps/web/package.json ./apps/web/package.json
+COPY --from=build /app/apps/web/next.config.mjs ./apps/web/next.config.mjs
+EXPOSE 3000
+CMD ["sh","-lc","pnpm exec prisma migrate deploy && pnpm --dir apps/web start"]

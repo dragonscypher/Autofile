@@ -1,0 +1,47 @@
+MICHAEL CHEN
+michael.chen@email.com | (555) 987-6543 | github.com/mchen | Seattle, WA
+
+OBJECTIVE
+Experienced Full Stack Developer seeking challenging opportunities to leverage expertise in modern web technologies and contribute to innovative projects.
+
+SKILLS
+Programming: JavaScript, TypeScript, Java, C#
+Frontend Technologies: React, Angular, Vue.js, HTML5, CSS3, SASS
+Backend: Node.js, Express, .NET Core, Spring Boot
+Databases: PostgreSQL, MySQL, MongoDB, SQL Server
+Tools & Platforms: Git, Docker, Azure, AWS, Visual Studio, VS Code
+Testing: Jest, Mocha, Selenium, Jasmine
+
+WORK EXPERIENCE
+
+Full Stack Developer | CloudTech Systems, Seattle, WA | 2018 - Present
+- Develop and maintain enterprise web applications using React and Node.js
+- Design and implement RESTful APIs serving internal business systems
+- Work with PostgreSQL and MongoDB for data persistence
+- Participate in code reviews and follow best practices
+- Deploy applications to Azure cloud platform
+- Collaborate with QA team to ensure software quality
+- Write technical documentation for APIs and features
+
+Software Developer | Digital Solutions Inc., Bellevue, WA | 2016 - 2018
+- Built web applications using Angular and .NET Core
+- Developed SQL queries and stored procedures for SQL Server
+- Fixed bugs and added new features to existing codebase
+- Worked in Agile environment with 2-week sprints
+- Assisted in migrating applications to Azure cloud
+- Participated in daily standup meetings
+
+Junior Developer | WebWorks LLC, Seattle, WA | 2015 - 2016
+- Created responsive web pages using HTML, CSS, and JavaScript
+- Maintained legacy applications and fixed production issues
+- Learned and applied software development best practices
+- Collaborated with senior developers on various projects
+
+EDUCATION
+Bachelor of Science in Information Technology | University of Washington | 2011 - 2015
+
+ADDITIONAL INFORMATION
+- Active member of Seattle JavaScript Meetup group
+- Enjoy learning new technologies and frameworks
+- Good problem-solving and communication skills
+- Available for remote or hybrid work arrangements

@@ -1,0 +1,35 @@
+DAVID PATEL
+davidpatel@email.com | 555-876-5432 | Austin, TX
+
+ABOUT ME
+Junior developer with 2 years of experience. Interested in web development and learning new technologies. Looking for opportunities to grow my skills.
+
+TECHNICAL SKILLS
+- HTML, CSS, JavaScript
+- Python basics
+- Some experience with React
+- MySQL database
+- Git version control
+
+WORK HISTORY
+
+Junior Web Developer | Small Tech Startup, Austin, TX | 2022 - Present
+- Work on website updates and bug fixes
+- Help with JavaScript features
+- Test code before deployment
+- Attend team meetings
+- Learn from senior developers
+
+Intern | University IT Department, Austin, TX | Summer 2021
+- Helped update university website
+- Fixed broken links and layout issues
+- Learned about web development
+- Used HTML and CSS to make pages
+
+EDUCATION
+Bachelor's Degree in Computer Science | University of Texas at Austin | 2018 - 2022
+
+HOBBIES
+- Playing video games
+- Reading tech blogs
+- Watching coding tutorials on YouTube

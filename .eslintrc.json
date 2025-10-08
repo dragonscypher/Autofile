@@ -1,0 +1,14 @@
+{
+    "root": true,
+    "extends": [
+        "next",
+        "next/core-web-vitals"
+    ],
+    "parserOptions": {
+        "project": [
+            "./apps/web/tsconfig.json",
+            "./packages/*/tsconfig.json",
+            "./apps/workers/tsconfig.json"
+        ]
+    }
+}

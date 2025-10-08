@@ -1,0 +1,66 @@
+JESSICA TAYLOR
+j.taylor@email.com | (555) 345-7890 | Portfolio: jessicataylor.dev | Denver, CO
+
+SUMMARY
+Full Stack Software Engineer with 6 years of experience specializing in React, Node.js, and cloud technologies. Proven track record in delivering scalable applications and leading technical initiatives. Strong focus on performance optimization and user experience.
+
+TECHNICAL EXPERTISE
+Frontend: React, Next.js, TypeScript, Redux, Material-UI, Styled Components, Webpack
+Backend: Node.js, Express, NestJS, Python (Flask), RESTful APIs
+Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+Cloud: AWS (EC2, S3, Lambda, CloudWatch, RDS), Google Cloud Platform
+DevOps: Docker, Kubernetes, CI/CD (GitHub Actions, GitLab CI), Terraform
+Testing: Jest, React Testing Library, Cypress, Selenium
+Tools: Git, npm, Yarn, Webpack, Babel, ESLint, Prettier
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | CloudScale Technologies, Denver, CO | 2020 - Present
+• Architected and developed customer-facing SaaS platform using Next.js and Node.js serving 50K+ users
+• Implemented GraphQL API layer improving data fetching efficiency by 40%
+• Led migration from monolithic architecture to microservices on AWS EKS
+• Established automated testing framework achieving 82% code coverage
+• Optimized application performance reducing initial load time from 4s to 1.2s
+• Mentored 3 junior engineers through pairing sessions and code reviews
+• Collaborated with UX team to implement responsive designs with Figma specs
+• Managed AWS infrastructure using Terraform for infrastructure as code
+
+Software Engineer | TechVentures Inc., Boulder, CO | 2018 - 2020
+• Developed full-stack features for e-commerce platform using MERN stack
+• Built real-time notification system using WebSockets and Redis pub/sub
+• Integrated third-party payment APIs (Stripe, PayPal) for checkout process
+• Improved database query performance by 55% through indexing and optimization
+• Implemented CI/CD pipeline using GitLab CI reducing deployment time to 10 minutes
+• Worked in Agile Scrum environment with 2-week sprint cycles
+• Participated in technical design discussions and sprint planning
+
+Associate Developer | WebCraft Solutions, Denver, CO | 2017 - 2018
+• Created responsive web interfaces using React and Bootstrap
+• Developed Node.js backends with Express and MongoDB
+• Wrote unit and integration tests using Jest and Mocha
+• Collaborated with designers to implement UI/UX requirements
+• Participated in code reviews and followed coding standards
+
+EDUCATION
+Bachelor of Science in Computer Science | University of Colorado Boulder | 2013 - 2017
+Minor in Mathematics | GPA: 3.6/4.0
+
+CERTIFICATIONS & TRAINING
+• AWS Certified Developer - Associate (2022)
+• React & Redux Masterclass Certification (2019)
+• Node.js Professional Certification (2020)
+
+PROJECTS & CONTRIBUTIONS
+• Open Source: Core contributor to popular React UI library (3K+ stars)
+• Side Project: Built AI-powered code snippet manager using Next.js and OpenAI API
+• Technical Writing: Published articles on Medium about React best practices (5K+ followers)
+
+ADDITIONAL SKILLS
+• Strong problem-solving and analytical thinking
+• Excellent written and verbal communication
+• Experience with Agile/Scrum methodologies
+• Comfortable working in remote/distributed teams
+• Quick learner and adaptable to new technologies
+
+LANGUAGES
+English (Native), Spanish (Professional working proficiency)

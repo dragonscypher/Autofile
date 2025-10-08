@@ -1,0 +1,72 @@
+EMILY RODRIGUEZ
+emily.rodriguez@email.com | 555-234-8765 | Boston, MA 02110
+
+PROFESSIONAL SUMMARY
+Motivated software engineer with 10+ years of hands-on experience in full-stack development. Proven expertise in building high-performance applications using cutting-edge technologies. Strong advocate for test-driven development and clean architecture principles.
+
+CORE COMPETENCIES
+• JavaScript/TypeScript Expert (React, Next.js, Node.js, Express)
+• Cloud Architecture (AWS: EC2, S3, Lambda, RDS, CloudFront, ECS)
+• Database Design (PostgreSQL, MySQL, MongoDB, Redis, DynamoDB)
+• Container Orchestration (Docker, Kubernetes, Docker Compose)
+• CI/CD Pipeline (GitHub Actions, Jenkins, CircleCI, Travis CI)
+• Microservices & API Design (REST, GraphQL, WebSockets)
+• Agile & Scrum Methodologies
+• Team Leadership & Mentoring
+
+PROFESSIONAL EXPERIENCE
+
+Lead Full Stack Engineer | InnovateTech Corp, Boston, MA | 2019 - Present
+• Lead a team of 6 engineers developing a enterprise SaaS platform using Next.js and Node.js
+• Architected and deployed microservices infrastructure on AWS ECS with Kubernetes
+• Designed and implemented GraphQL API layer replacing legacy REST endpoints
+• Reduced infrastructure costs by 45% through optimization of AWS resources
+• Established CI/CD best practices using GitHub Actions, cutting deployment time by 80%
+• Mentored junior developers and conducted technical interviews for new hires
+• Implemented Redis caching strategy improving application response times by 75%
+• Spearheaded adoption of TypeScript across the codebase improving code quality
+• Collaborated with stakeholders to define technical requirements and deliverables
+
+Senior Software Engineer | DataDrive Systems, Cambridge, MA | 2015 - 2019
+• Developed scalable web applications using React, Redux, and Node.js
+• Built real-time data processing pipelines handling 5M+ events daily
+• Implemented automated testing achieving 90% code coverage with Jest and Cypress
+• Migrated monolithic application to microservices architecture
+• Optimized PostgreSQL queries reducing database load by 50%
+• Introduced Docker containerization improving development workflow
+• Participated in architectural decisions and technical roadmap planning
+• Conducted code reviews and pair programming sessions
+
+Software Engineer | WebSolutions LLC, Providence, RI | 2012 - 2015
+• Created responsive web applications using JavaScript, jQuery, and Bootstrap
+• Developed RESTful APIs using Node.js and Express framework
+• Worked with MongoDB and PostgreSQL for data storage
+• Implemented user authentication and authorization systems
+• Fixed bugs and added features based on customer feedback
+• Deployed applications to AWS EC2 and managed server infrastructure
+
+EDUCATION & CERTIFICATIONS
+Master of Science in Computer Science | MIT | 2010 - 2012
+Bachelor of Science in Software Engineering | Boston University | 2006 - 2010
+
+Certifications:
+• AWS Certified Solutions Architect - Professional (2022)
+• AWS Certified Developer - Associate (2020)
+• Kubernetes Administrator (CKA) (2021)
+• MongoDB Certified Developer (2019)
+
+OPEN SOURCE & COMMUNITY
+• Active contributor to React and Node.js open source projects (4K+ GitHub stars)
+• Speaker at React Boston Conference 2022, 2023
+• Technical blog with 10K+ monthly readers (emilyrodriguez.tech)
+• Organizer of Boston JavaScript & TypeScript Meetup (500+ members)
+
+TECHNICAL PROJECTS
+• Developed open-source React component library used by 1000+ developers
+• Built real-time collaboration tool using WebSockets and Redis
+• Created serverless application using AWS Lambda and API Gateway
+
+AWARDS & RECOGNITION
+• Employee of the Year, InnovateTech Corp (2022)
+• Innovation Award for Architecture Excellence (2021)
+• Best Hackathon Project, Boston Tech Fest (2020)

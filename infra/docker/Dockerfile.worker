@@ -1,0 +1,23 @@
+FROM node:20-alpine AS deps
+WORKDIR /app
+RUN corepack enable && corepack prepare pnpm@8.15.4 --activate
+COPY package.json pnpm-workspace.yaml .npmrc* ./
+COPY apps/workers/package.json apps/workers/
+COPY packages/ats/package.json packages/ats/
+COPY prisma/schema.prisma prisma/
+RUN pnpm install --frozen-lockfile || pnpm install
+
+FROM deps AS build
+COPY . .
+RUN pnpm prisma generate
+RUN pnpm -w --filter @autofile/workers build
+
+FROM node:20-alpine AS runner
+ENV NODE_ENV=production
+WORKDIR /app
+RUN corepack enable && corepack prepare pnpm@8.15.4 --activate
+COPY --from=build /app/node_modules ./node_modules
+COPY --from=build /app/apps/workers/dist ./apps/workers/dist
+COPY --from=build /app/apps/workers/package.json ./apps/workers/package.json
+EXPOSE 3001
+CMD ["node","apps/workers/dist/index.js"]

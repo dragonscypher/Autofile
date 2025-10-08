@@ -1,0 +1,38 @@
+{
+    "compilerOptions": {
+        "target": "ES2021",
+        "lib": [
+            "es2021",
+            "dom"
+        ],
+        "module": "ESNext",
+        "moduleResolution": "Bundler",
+        "strict": true,
+        "skipLibCheck": true,
+        "types": [
+            "node"
+        ],
+        "typeRoots": [
+            "./types",
+            "./node_modules/@types"
+        ]
+    },
+    "files": [],
+    "references": [
+        {
+            "path": "apps/web"
+        },
+        {
+            "path": "apps/workers"
+        },
+        {
+            "path": "packages/ats"
+        },
+        {
+            "path": "packages/llm"
+        },
+        {
+            "path": "packages/utils"
+        }
+    ]
+}

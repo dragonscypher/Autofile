@@ -1,0 +1,88 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  name      String?
+  role      Role     @default(VIEWER)
+  projects  Project[] @relation("ProjectOwner")
+  createdAt DateTime @default(now())
+}
+
+enum Role {
+  OWNER
+  RECRUITER
+  INTERVIEWER
+  VIEWER
+}
+
+model Project {
+  id             String     @id @default(cuid())
+  ownerId        String
+  owner          User       @relation("ProjectOwner", fields: [ownerId], references: [id])
+  title          String
+  jobDescription String
+  requiredSkills String[]   @default([])
+  bonusSkills    String[]   @default([])
+  atsThreshold   Int        @default(70)
+  llmConfigId    String?
+  llmConfig      LLMConfig? @relation(fields: [llmConfigId], references: [id])
+  createdAt      DateTime   @default(now())
+  resumes        Resume[]
+  interviews     Interview[]
+}
+
+model Resume {
+  id          String    @id @default(cuid())
+  projectId   String
+  project     Project   @relation(fields: [projectId], references: [id])
+  filename    String
+  mimeType    String
+  text        String
+  parsedMeta  Json
+  atsScore    Int?
+  atsDetail   Json?
+  shortlisted Boolean   @default(false)
+  candidate   Candidate?
+  createdAt   DateTime  @default(now())
+}
+
+model Candidate {
+  id       String  @id @default(cuid())
+  resumeId String  @unique
+  name     String?
+  email    String?
+  phone    String?
+  links    Json?
+  notes    String?
+  resumes  Resume? @relation(fields: [resumeId], references: [id])
+}
+
+model LLMConfig {
+  id          String  @id @default(cuid())
+  provider    String  // "huggingface" | "openrouter" | "ollama"
+  model       String
+  temperature Float   @default(0.2)
+  topP        Float   @default(0.95)
+  maxTokens   Int     @default(1024)
+  ragEnabled  Boolean @default(true)
+  projects    Project[]
+}
+
+model Interview {
+  id         String   @id @default(cuid())
+  projectId  String
+  project    Project  @relation(fields: [projectId], references: [id])
+  resumeId   String
+  generated  Json
+  responses  Json?
+  totalScore Int?
+  createdAt  DateTime @default(now())
+}

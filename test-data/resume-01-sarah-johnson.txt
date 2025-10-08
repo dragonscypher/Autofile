@@ -1,0 +1,54 @@
+SARAH JOHNSON
+Email: sarah.johnson@email.com | Phone: (555) 123-4567 | LinkedIn: linkedin.com/in/sarahjohnson
+Location: San Francisco, CA
+
+SUMMARY
+Senior Full Stack Engineer with 7+ years of experience building scalable web applications. Expert in React, Node.js, and cloud technologies. Passionate about clean code, mentorship, and delivering high-quality software solutions.
+
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Python, SQL
+Frontend: React, Next.js, Redux, Tailwind CSS, HTML5, CSS3
+Backend: Node.js, Express, NestJS, GraphQL, REST APIs
+Databases: PostgreSQL, MongoDB, Redis, MySQL
+Cloud & DevOps: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)
+Tools: Git, Jest, Webpack, VS Code, Jira, Figma
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | TechCorp Solutions, San Francisco, CA | 2020 - Present
+- Led development of a multi-tenant SaaS platform serving 10,000+ users, built with Next.js and Node.js
+- Architected and implemented microservices infrastructure using Docker and Kubernetes on AWS
+- Reduced API response times by 60% through database optimization and caching strategies with Redis
+- Mentored 4 junior engineers and conducted regular code reviews to maintain code quality
+- Implemented comprehensive testing strategy achieving 85% code coverage with Jest and Cypress
+- Collaborated with product team using Agile methodologies to deliver features on schedule
+
+Software Engineer | StartupHub Inc., Palo Alto, CA | 2017 - 2020
+- Built responsive web applications using React, Redux, and Material-UI
+- Developed RESTful APIs with Node.js and Express serving 1M+ requests daily
+- Migrated legacy PHP application to modern MERN stack, improving performance by 40%
+- Implemented CI/CD pipeline using GitHub Actions reducing deployment time by 70%
+- Worked closely with designers to implement pixel-perfect UI components
+- Participated in on-call rotation and resolved production issues promptly
+
+Junior Developer | CodeWorks, San Jose, CA | 2016 - 2017
+- Developed features for e-commerce platform using JavaScript and jQuery
+- Wrote SQL queries and optimized database performance for PostgreSQL
+- Fixed bugs and implemented unit tests for existing codebase
+- Collaborated with cross-functional teams in daily standups
+
+EDUCATION
+Bachelor of Science in Computer Science | San Jose State University | 2012 - 2016
+GPA: 3.7/4.0 | Dean's List (4 semesters)
+
+PROJECTS & CONTRIBUTIONS
+- Open Source Contributor: Contributed to popular React libraries (2000+ stars on GitHub)
+- Personal Blog: Built Next.js blog with MDX and deployed on Vercel (sarahjohnson.dev)
+- Hackathon Winner: 1st place at TechCrunch Disrupt Hackathon 2019
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate (2021)
+- MongoDB Certified Developer (2020)
+
+LANGUAGES
+English (Native), Spanish (Conversational)

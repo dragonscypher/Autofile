@@ -1,0 +1,50 @@
+SENIOR SOFTWARE ENGINEER - FULL STACK
+Tech Innovations Inc.
+
+Position Overview:
+We are seeking an experienced Senior Software Engineer to join our growing engineering team. The ideal candidate will have strong expertise in modern web technologies and a proven track record of building scalable applications.
+
+Key Responsibilities:
+- Design, develop, and maintain full-stack web applications
+- Collaborate with product managers and designers to deliver high-quality features
+- Write clean, maintainable, and well-documented code
+- Mentor junior engineers and conduct code reviews
+- Participate in architectural decisions and technical planning
+- Optimize application performance and scalability
+- Implement automated testing and CI/CD pipelines
+
+Required Skills:
+- 5+ years of software engineering experience
+- Expert proficiency in JavaScript/TypeScript and React
+- Strong experience with Node.js and Express
+- Solid understanding of SQL and NoSQL databases (PostgreSQL, MongoDB, Redis)
+- Experience with cloud platforms (AWS, Azure, or GCP)
+- Proficiency in Git and version control workflows
+- Strong problem-solving and debugging skills
+- Excellent communication and teamwork abilities
+
+Bonus Skills:
+- Experience with Next.js and modern React patterns
+- Knowledge of Docker and Kubernetes
+- Familiarity with microservices architecture
+- Experience with GraphQL
+- Contributions to open-source projects
+- Experience with Agile/Scrum methodologies
+- Knowledge of CI/CD tools (GitHub Actions, Jenkins, CircleCI)
+
+What We Offer:
+- Competitive salary ($120K - $160K based on experience)
+- Comprehensive health, dental, and vision insurance
+- 401(k) with company match
+- Flexible work arrangements (hybrid/remote options)
+- Professional development budget
+- Collaborative and innovative work environment
+- Opportunities for career growth
+
+About Us:
+Tech Innovations Inc. is a fast-growing technology company focused on building cutting-edge SaaS solutions for enterprise clients. We value innovation, collaboration, and continuous learning.
+
+To Apply:
+Please submit your resume and a brief cover letter explaining your interest in this position and relevant experience.
+
+Tech Innovations Inc. is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

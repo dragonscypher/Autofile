@@ -1,0 +1,20 @@
+{
+    "name": "@autofile/utils",
+    "version": "0.1.0",
+    "private": true,
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc -p tsconfig.json",
+        "typecheck": "tsc -p tsconfig.json --noEmit",
+        "lint": "echo 'no lint'"
+    },
+    "dependencies": {
+        "pdf-parse": "^1.1.1",
+        "textract": "^2.5.0"
+    },
+    "devDependencies": {
+        "@types/node": "^20.12.12",
+        "typescript": "^5.4.5"
+    }
+}
