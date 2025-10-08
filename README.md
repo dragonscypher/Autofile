@@ -1,4 +1,4 @@
-# 🤖 Autofile - AI Recruitment Assis## 🎯 Getting Started
+# 🤖 Autofile - AI Recruitment Assist 🎯 Getting Started
 
 ### Prerequisites
 - 📦 Node.js 1## 📁 Project Structure
