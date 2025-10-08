@@ -1,7 +1,6 @@
 # 🤖 Autofile - AI Recruitment Assist 🎯 Getting Started
 
-### Prerequisites
-- 📦 Node.js 1## 📁 Project Structure
+## 📁 Project Structure
 
 ```
 Autofile/
@@ -19,12 +18,15 @@ Autofile/
 └── test-data/        # 📄 Sample data for testing
 ```
 
-## 🧪 Testing it outcommended)
+## 🧪 Testing it 
+
+### Prerequisites
+- 📦 Node.js 
 - 📦 pnpm package manager (`npm install -g pnpm`)
 - 🐳 Docker Desktop (for PostgreSQL and Redis)
 - 🤖 Ollama with llama3 (optional, for enhanced AI features)
 
-### Quick Setup![Next.js](https://img.shields.io/badge/Next.js-14.2.5-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+### Quick Setup![Next.js](https://img.shields.io/badge/Next.js-14.2.5-black?style=flat-square&logo=next.js)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
 [![Prisma](https://img.shields.io/badge/Prisma-5.22-2D3748?style=flat-square&logo=prisma)](https://www.prisma.io/)
