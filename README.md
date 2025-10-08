@@ -32,10 +32,6 @@ Autofile/
 
 > A smart recruitment system that helps you screen resumes, shortlist candidates, and generate interview questions using AI.
 
-![Autofile Banner](https://via.placeholder.com/1200x400/4F46E5/ffffff?text=Autofile+-+AI+Recruitment+Assistant)
-
-## ✨ What does it do?
-
 ## ✨ What does it do?
 
 Autofile streamlines your hiring process by:
